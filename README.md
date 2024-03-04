@@ -1,5 +1,29 @@
 # JD Expense Tracker
 
+My personal expense tracker. Here, I have used ASP.Net core MVC with EJS from syncfusion. SSMS is used for the database which is created using Entity Framework.
+Download Visual studio, download Entity framework tools, SQL,  and core.
+Run it in on your local, Add categories and transactions, I have given the chart for the last 7 days which can be changed to any other dates
+Bootstrap is used for frontend with syncfusion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 First, it is a web app so use MVC web app while creating, go through all the folders, it will have model,controller,view,wwwroot,properties and dependencies folder.
 Go to tools-> NuGet manager-> Download Entity framework core,entity framework SQl,entity framework tools(before downloading check ASP.net version, right clicking on dependencies->frameworks and ASPnetcore will get you)
